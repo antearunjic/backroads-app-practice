@@ -1,5 +1,5 @@
 import Title from "./Title";
-import { tours, tour1, tour2, tour3, tour4 } from "../data";
+import { tours } from "../data";
 
 const Tours = () => {
   return (
