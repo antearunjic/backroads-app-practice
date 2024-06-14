@@ -34,8 +34,7 @@ export const services = [
     icon: "fas fa-socks fa-fw",
     title: "amazing comfort",
     text: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.",
-  }
-];
+  },];
 
 export const tours = [
   {
